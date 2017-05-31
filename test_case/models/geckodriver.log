@@ -1,0 +1,33 @@
+1492325442623	geckodriver	INFO	Listening on 127.0.0.1:54952
+1492325443592	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ipKPSaKQxY0O
+1492325443594	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1492325443601	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56157
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492325445045	Marionette	INFO	Listening on port 56157
+1492325445662	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:7050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 6983] WARNING: pipe error: Broken pipe: file /build/firefox-HbQoUu/firefox-52.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6983): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed

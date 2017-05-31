@@ -1,0 +1,81 @@
+1492002394082	geckodriver	INFO	Listening on 127.0.0.1:43395
+1492002395066	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V0oIsN3Oc9hM
+1492002395068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1492002395138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41185
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492002397287	Marionette	INFO	Listening on port 41185
+1492002398074	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:4307): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4307): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4307): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4307): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1492002658008	geckodriver	INFO	Listening on 127.0.0.1:32860
+1492002658973	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MTY2ROTbGgRG
+1492002658974	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1492002658980	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50892
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492002660618	Marionette	INFO	Listening on port 50892
+1492002661356	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:4489): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4489): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4489): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4489): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4431): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4248): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492002721920	geckodriver	INFO	Listening on 127.0.0.1:45214
+1492002722913	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xJW0o6QPsCPl
+1492002722915	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1492002722921	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39602
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492002724184	Marionette	INFO	Listening on port 39602
+1492002724614	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:4631): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4631): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4631): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4631): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4563): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
